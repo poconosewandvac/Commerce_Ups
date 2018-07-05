@@ -1,0 +1,11 @@
+{
+    "require": {
+        "php": ">=5.5.0",
+        "gabrielbull/ups-api": "^0.8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "PoconoSewVac\\Ups\\" : "src/"
+        }
+    }
+}
